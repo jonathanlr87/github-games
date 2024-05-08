@@ -1,4 +1,4 @@
-## Welcome to GitHub Games - Jonathan López
+## Welcome to GitHub Games - Jonathan López R
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
